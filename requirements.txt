@@ -1,0 +1,11 @@
+Pillow
+numpy
+opencv-python
+tensorflow
+scikit-learn
+matplotlib
+keras
+numpy 
+pandas
+#tf_slim
+#tensorflow-gpu  # Se estiver usando GPU
